@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddartha G</h1>
 <h3 align="center">A passionate Game developer from India</h3>
 
-- 🔭 I’m currently working on [BulletBlitz]()
-
-- 🌱 I’m currently learning **Maya**
-
-- 👨‍💻 All of my projects are available at [https://youtube.com/@sidunrealstudios](https://youtube.com/@sidunrealstudios)
-
 - 💬 Ask me about **Unreal Engine 5, C++, Unity, C#, Maya, Python, Fortran**
 
 - 📫 How to reach me **sid.gonnabattula@gmail.com**
